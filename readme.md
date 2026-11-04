@@ -3,11 +3,11 @@
 Aplikasi Flask untuk pengecekan username pada studi kasus rental mobil.
 
 ## Cara Menjalankan
-pip install -r requirements.txt
+pip install -r requirements.txt di cmd
 
-python app.py
+Lalu jalankan python app.py di cmd
 
-Buka http://127.0.0.1:5000
+Kemudian buka http://127.0.0.1:5000
 
 ## Route
 / , /tentang , /produk , /kontak
