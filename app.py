@@ -79,7 +79,7 @@ def beranda():
 @app.route("/tentang")
 def tentang():
     return halaman("Tentang", """<h1>Tentang</h1>
-<p>RodaKita menyewakan mobil harian dengan atau tanpa sopir.
+<p>Millena Car menyewakan mobil harian dengan atau tanpa sopir.
 Akun ada tiga jenis: pelanggan, member, dan admin.</p>""")
 
 
@@ -94,7 +94,7 @@ def produk():
 @app.route("/kontak")
 def kontak():
     return halaman("Kontak", """<h1>Kontak</h1>
-<p>WhatsApp: 0812-0000-0000<br>Email: halo@rodakita.example</p>""")
+<p>WhatsApp: 0812-0000-0000<br>Email: halo@millenacar.example</p>""")
 
 
 # Route converter int
